@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Manchester City",
+    "country": "England",
+    "confed": "UEFA"
+  },
+  {
+    "name": "Fluminense",
+    "country": "Brazil",
+    "confed": "CONMEBOL"
+  },
+  {
+    "name": "Al Ahly",
+    "country": "Egypt",
+    "confed": "CAF"
+  },
+  {
+    "name": "Urawa Red Diamonds",
+    "country": "Japan",
+    "confed": "AFC"
+  },
+  {
+    "name": "Club León",
+    "country": "Mexico",
+    "confed": "CONCACAF"
+  },
+  {
+    "name": "Auckland City",
+    "country": "New Zealand",
+    "confed": "OFC"
+  },
+  {
+    "name": "Al-Ittihad",
+    "country": "Saudi Arabia",
+    "confed": "AFC"
+  },
+  {
+  "name": "Real Madrid",
+  "country": "Spain",
+  "confed": "UEFA"
+},
+{
+  "name": "Bayern Munich",
+  "country": "Germany",
+  "confed": "UEFA"
+},
+{
+  "name": "Chelsea",
+  "country": "England",
+  "confed": "UEFA"
+},
+{
+  "name": "Paris Saint-Germain",
+  "country": "France",
+  "confed": "UEFA"
+},
+{
+  "name": "Inter Milan",
+  "country": "Italy",
+  "confed": "UEFA"
+},
+{
+  "name": "Benfica",
+  "country": "Portugal",
+  "confed": "UEFA"
+},
+{
+  "name": "Ajax",
+  "country": "Netherlands",
+  "confed": "UEFA"
+},
+{
+  "name": "Porto",
+  "country": "Portugal",
+  "confed": "UEFA"
+},
+{
+  "name": "River Plate",
+  "country": "Argentina",
+  "confed": "CONMEBOL"
+},
+{
+  "name": "Boca Juniors",
+  "country": "Argentina",
+  "confed": "CONMEBOL"
+},
+{
+  "name": "Palmeiras",
+  "country": "Brazil",
+  "confed": "CONMEBOL"
+},
+{
+  "name": "Santos",
+  "country": "Brazil",
+  "confed": "CONMEBOL"
+},
+{
+  "name": "Monterrey",
+  "country": "Mexico",
+  "confed": "CONCACAF"
+},
+{
+  "name": "Tigres UANL",
+  "country": "Mexico",
+  "confed": "CONCACAF"
+},
+{
+  "name": "Seattle Sounders",
+  "country": "USA",
+  "confed": "CONCACAF"
+},
+{
+  "name": "Wydad Casablanca",
+  "country": "Morocco",
+  "confed": "CAF"
+},
+{
+  "name": "Esperance de Tunis",
+  "country": "Tunisia",
+  "confed": "CAF"
+},
+{
+  "name": "Mamelodi Sundowns",
+  "country": "South Africa",
+  "confed": "CAF"
+},
+{
+  "name": "Al Hilal",
+  "country": "Saudi Arabia",
+  "confed": "AFC"
+},
+{
+  "name": "Jeonbuk Hyundai Motors",
+  "country": "South Korea",
+  "confed": "AFC"
+},
+{
+  "name": "Guangzhou Evergrande",
+  "country": "China",
+  "confed": "AFC"
+},
+{
+  "name": "Sydney FC",
+  "country": "Australia",
+  "confed": "AFC"
+},
+{
+  "name": "Wellington Phoenix",
+  "country": "New Zealand",
+  "confed": "OFC"
+},
+{
+  "name": "Celtic",
+  "country": "Scotland",
+  "confed": "UEFA"
+},
+{
+  "name": "Al Sadd",
+  "country": "Qatar",
+  "confed": "AFC"
+}
+]

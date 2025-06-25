@@ -1,0 +1,194 @@
+[
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Time 29",
+    "runner_up": "Time 27",
+    "third_place": "Time 26",
+    "final_score": "2 x 0"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Time 22",
+    "runner_up": "Time 29",
+    "third_place": "Time 15",
+    "final_score": "0 x 2"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Time 03",
+    "runner_up": "Time 15",
+    "third_place": "Time 01",
+    "final_score": "1 x 2"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Time 13",
+    "runner_up": "Time 18",
+    "third_place": "Time 26",
+    "final_score": "2 x 3"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Time 09",
+    "runner_up": "Time 12",
+    "third_place": "Time 27",
+    "final_score": "0 x 2"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Time 16",
+    "runner_up": "Time 05",
+    "third_place": "Time 01",
+    "final_score": "3 x 2"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Time 18",
+    "runner_up": "Time 22",
+    "third_place": "Time 28",
+    "final_score": "2 x 0"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Esperance de Tunis",
+    "runner_up": "Seattle Sounders",
+    "third_place": "Al Ahly",
+    "final_score": "2 x 1"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Auckland City",
+    "runner_up": "River Plate",
+    "third_place": "Paris Saint-Germain",
+    "final_score": "0 x 1"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Wellington Phoenix",
+    "runner_up": "Tigres UANL",
+    "third_place": "Auckland City",
+    "final_score": "2 x 1"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Esperance de Tunis",
+    "runner_up": "Inter Milan",
+    "third_place": "Porto",
+    "final_score": "2 x 0"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Palmeiras",
+    "runner_up": "Tigres UANL",
+    "third_place": "Bayern Munich",
+    "final_score": "0 x 1"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Urawa Red Diamonds",
+    "runner_up": "Boca Juniors",
+    "third_place": "Al-Ittihad",
+    "final_score": "0 x 1"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Chelsea",
+    "runner_up": "Al Ahly",
+    "third_place": "Manchester City",
+    "final_score": "0 x 2"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Esperance de Tunis",
+    "runner_up": "Boca Juniors",
+    "third_place": "Real Madrid",
+    "final_score": "2 x 1"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Celtic",
+    "runner_up": "Esperance de Tunis",
+    "third_place": "Seattle Sounders",
+    "final_score": "1 x 2"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Mamelodi Sundowns",
+    "runner_up": "Real Madrid",
+    "third_place": "Mamelodi Sundowns",
+    "final_score": "2 x 1"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Benfica",
+    "runner_up": "Chelsea",
+    "third_place": "Palmeiras",
+    "final_score": "0 x 1"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Manchester City",
+    "runner_up": "Jeonbuk Hyundai Motors",
+    "third_place": "Manchester City",
+    "final_score": "1 x 0"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Paris Saint-Germain",
+    "runner_up": "Urawa Red Diamonds",
+    "third_place": "Porto",
+    "final_score": "0 x 1"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Jeonbuk Hyundai Motors",
+    "runner_up": "Al Ahly",
+    "third_place": "Guangzhou Evergrande",
+    "final_score": "2 x 1"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Mamelodi Sundowns",
+    "runner_up": "Real Madrid",
+    "third_place": "Porto",
+    "final_score": "0 x 2"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Santos",
+    "runner_up": "Club León",
+    "third_place": "Celtic",
+    "final_score": "3 x 2"
+  },
+  {
+    "year": 2025,
+    "name": "FIFA Club World Cup",
+    "champion": "Inter Milan",
+    "runner_up": "Monterrey",
+    "third_place": "Wydad Casablanca",
+    "final_score": "1 x 2"
+  }
+]
